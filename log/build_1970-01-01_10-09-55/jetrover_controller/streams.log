@@ -1,0 +1,27 @@
+[7.377s] Invoking command in '/home/ubuntu/axy_proj/src/jetrover_controller': NX_CONNECTION=192.168.149.153 54256 192.168.149.1 4000 PYTHONPATH=/home/ubuntu/axy_proj/build/jetrover_controller/prefix_override:/home/ubuntu/axy_proj/install/jetrover_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/jetrover_controller build --build-base /home/ubuntu/axy_proj/build/jetrover_controller/build install --record /home/ubuntu/axy_proj/build/jetrover_controller/install.log --single-version-externally-managed install_data
+[9.172s] running egg_info
+[9.275s] writing ../../build/jetrover_controller/jetrover_controller.egg-info/PKG-INFO
+[9.288s] writing dependency_links to ../../build/jetrover_controller/jetrover_controller.egg-info/dependency_links.txt
+[9.289s] writing entry points to ../../build/jetrover_controller/jetrover_controller.egg-info/entry_points.txt
+[9.289s] writing requirements to ../../build/jetrover_controller/jetrover_controller.egg-info/requires.txt
+[9.289s] writing top-level names to ../../build/jetrover_controller/jetrover_controller.egg-info/top_level.txt
+[9.492s] reading manifest file '../../build/jetrover_controller/jetrover_controller.egg-info/SOURCES.txt'
+[9.510s] writing manifest file '../../build/jetrover_controller/jetrover_controller.egg-info/SOURCES.txt'
+[9.513s] running build
+[9.515s] running build_py
+[9.523s] running install
+[9.547s] running install_lib
+[9.650s] running install_data
+[9.651s] running install_egg_info
+[9.739s] removing '/home/ubuntu/axy_proj/install/jetrover_controller/lib/python3.10/site-packages/jetrover_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[9.741s] Copying ../../build/jetrover_controller/jetrover_controller.egg-info to /home/ubuntu/axy_proj/install/jetrover_controller/lib/python3.10/site-packages/jetrover_controller-0.0.0-py3.10.egg-info
+[9.745s] running install_scripts
+[10.586s] Installing buzzer_stop script to /home/ubuntu/axy_proj/install/jetrover_controller/lib/jetrover_controller
+[10.586s] Installing dance_attempt script to /home/ubuntu/axy_proj/install/jetrover_controller/lib/jetrover_controller
+[10.586s] Installing enhanced_dance script to /home/ubuntu/axy_proj/install/jetrover_controller/lib/jetrover_controller
+[10.586s] Installing lidar_safety script to /home/ubuntu/axy_proj/install/jetrover_controller/lib/jetrover_controller
+[10.587s] Installing move_arm script to /home/ubuntu/axy_proj/install/jetrover_controller/lib/jetrover_controller
+[10.597s] Installing move_robot script to /home/ubuntu/axy_proj/install/jetrover_controller/lib/jetrover_controller
+[10.597s] Installing robo_manager script to /home/ubuntu/axy_proj/install/jetrover_controller/lib/jetrover_controller
+[10.598s] writing list of installed files to '/home/ubuntu/axy_proj/build/jetrover_controller/install.log'
+[10.844s] Invoked command in '/home/ubuntu/axy_proj/src/jetrover_controller' returned '0': NX_CONNECTION=192.168.149.153 54256 192.168.149.1 4000 PYTHONPATH=/home/ubuntu/axy_proj/build/jetrover_controller/prefix_override:/home/ubuntu/axy_proj/install/jetrover_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/jetrover_controller build --build-base /home/ubuntu/axy_proj/build/jetrover_controller/build install --record /home/ubuntu/axy_proj/build/jetrover_controller/install.log --single-version-externally-managed install_data
